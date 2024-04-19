@@ -23,7 +23,7 @@ Before running the application, ensure you have the following prerequisites inst
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your_username/hospital-management-system.git
+       git clone https://github.com/Harshavardhan2099/hospital-management-system.git
 
 2. Import the project into your preferred IDE (Integrated Development Environment) such as Eclipse or IntelliJ IDEA.
 
