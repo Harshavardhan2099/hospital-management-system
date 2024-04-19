@@ -1,0 +1,38 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# NetBeans files
+nbproject/
+
+# Temporary files
+*~
+*.swp
+*.bak
+
+# macOS specific files
+.DS_Store
+
+# PostgreSQL database files
+*.pgsql
+
+# Logs
+*.log
+
+# Maven specific files
+target/
